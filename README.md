@@ -1,1 +1,1 @@
-# Fibonacci_in_Command_Line
+Enter a fibonacci number, and the program will output all the fibonacci numbers that precede the number you inputted. If your numbeer is not a fibonacci number, the program will go up to the fibonacci number that is closest to the nnumber you entered.
